@@ -1,0 +1,5 @@
+[versions]
+simple-kotlin-multipartform-plugin-version = "0.6.3"
+
+[plugins]
+simple-kotlin-multiplatform-plugin = { id = "io.github.edmondantes.simple.kmm.gradle.plugin", version.ref = "simple-kotlin-multipartform-plugin-version" }
